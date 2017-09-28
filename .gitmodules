@@ -1,0 +1,3 @@
+[submodule "apixu"]
+	path = apixu
+	url = https://github.com/apixu/apixu-python.git
